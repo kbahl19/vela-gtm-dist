@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="igpiigkfeknamadloflcinphbpameflc">
     <updatecheck
-      codebase="https://github.com/kbahl19/vela-gtm-dist/releases/download/v1.0.0/vela-gtm-1.0.0.crx"
-      version="1.0.0" />
+      codebase="https://github.com/kbahl19/vela-gtm-dist/releases/download/v1.0.1/vela-gtm-1.0.1.crx"
+      version="1.0.1" />
   </app>
 </gupdate>
